@@ -1,2 +1,1 @@
-# TAREA02B
-Introducción al CSS
+https://rawgit.com/alumnojoseluis/TAREA02B/master/index.htm
