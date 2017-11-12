@@ -1,0 +1,47 @@
+/* se aplica un fondo de color a toda la pág. web, además de una fuente específica y tamaño adecuado */
+body {
+    background-color: #c0834a;
+	font-family: arial;
+	font-size: 90%;
+}
+
+/* tabla con cabecera y alternancia de colores, además de otros ajustes */
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+table, th, td {
+    border: 2px solid #dcb484;
+    text-align: center;
+    padding: 10px;
+}
+
+th {
+	background-color: #98682f
+}
+
+tr:nth-child(even) {
+    background-color: #cf965d;
+}
+
+/* links de color distinto a los disponibles por defecto */
+/* utilización de selectores CLASS e ID */
+a {color: #3d1b13;}
+ .importante:hover {color: #95592e;}
+
+#pag_oficial {
+	display: none;
+    color: #95592e;
+}
+/* utilización de capas DIV */ 
+div:hover #pag_oficial {display: inline;}
+
+/* rótulos informativos con color de fondo */
+h1 {
+    background-color: #98682f;
+}
+
+h3 {
+    background-color: #cf965d;
+}
