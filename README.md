@@ -1,1 +1,1 @@
-https://rawgit.com/alumnojoseluis/TAREA02B/master/index.htm
+https://cdn.jsdelivr.net/gh/alumnojoseluis/TAREA02B/index.htm
